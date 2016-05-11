@@ -7,6 +7,10 @@ describe('My lib', function() {
       assert.notEqual(greet().indexOf('hello'), -1);
     });
 
+    it('should say world', function() {
+      assert.notEqual(greet().indexOf('world'), -1);
+    });
+
     it('should not say goodbye', function() {
       assert.equal(greet().indexOf('goodbye'), -1);
     });
