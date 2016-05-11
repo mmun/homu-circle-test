@@ -1,0 +1,3 @@
+notify:
+  webhooks:
+    - url: https://homu-test.herokuapp.com/circle/q3V3kBOdH6mYI3ftXQ59maQYT2ryjv6Mb5tPY11TV8QAs1g9
