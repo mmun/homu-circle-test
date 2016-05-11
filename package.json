@@ -1,0 +1,22 @@
+{
+  "name": "homu-circle-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zestyzesty/homu-circle-test.git"
+  },
+  "author": "Martin Muñoz <im.mmun@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zestyzesty/homu-circle-test/issues"
+  },
+  "homepage": "https://github.com/zestyzesty/homu-circle-test#readme",
+  "dependencies": {
+    "mocha": "^2.4.5"
+  }
+}
